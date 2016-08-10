@@ -1,0 +1,11 @@
+C:\zys\实验测试文件\someTest1\someTest1\bin\Debug\someTest1.exe
+C:\zys\实验测试文件\someTest1\someTest1\bin\Debug\someTest1.pdb
+C:\zys\实验测试文件\someTest1\someTest1\bin\Debug\someTest1.xml
+C:\zys\实验测试文件\someTest1\someTest1\obj\x86\Debug\someTest1.Form1.resources
+C:\zys\实验测试文件\someTest1\someTest1\obj\x86\Debug\someTest1.Resources.resources
+C:\zys\实验测试文件\someTest1\someTest1\obj\x86\Debug\someTest1.vbproj.GenerateResource.Cache
+C:\zys\实验测试文件\someTest1\someTest1\obj\x86\Debug\someTest1.exe
+C:\zys\实验测试文件\someTest1\someTest1\obj\x86\Debug\someTest1.xml
+C:\zys\实验测试文件\someTest1\someTest1\obj\x86\Debug\someTest1.pdb
+C:\zys\实验测试文件\someTest1\someTest1\bin\Debug\someTest1.exe.config
+C:\zys\实验测试文件\someTest1\someTest1\obj\x86\Debug\someTest1.Form2.resources
