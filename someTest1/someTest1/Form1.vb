@@ -28,6 +28,7 @@ Public Class Form1
 
     Private Sub LinkLabel1_LinkClicked(sender As System.Object, e As System.Windows.Forms.LinkLabelLinkClickedEventArgs) Handles LinkLabel1.LinkClicked
         Form2.Show()
+dim masas as integer =0
 
     End Sub
 
